@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Lhgxz5Np8dlFYg/BTHiaGaiDWIzpOe6g9vpWMN9mRCIGqo/Ko9B+69LUGoOyqX8claKPHXi4dkyrw671JmIzKw==",
+  "dgSpecHash": "wHi+zE+c0N3zg3F0BZj45+Vr+MBPz2i0Z6M4NTbYN9IGkYPIJuHDmNtHpxJZiCkENu2jtqwgtrk+Ga4W9Q46GA==",
   "success": true,
   "projectFilePath": "C:\\Users\\777\\source\\repos\\ITStepFreelanceApp\\ITStepFreelance.Domain.Core\\ITStepFreelanceApp.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
